@@ -35,6 +35,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.gif" alt="GitHub Snake Animation (GIF)" />
-</p>
