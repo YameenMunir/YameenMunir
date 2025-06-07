@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="center"> GitHub Contributions </h3>
+<h3 align="center">GitHub Contributions</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
