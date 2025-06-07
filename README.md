@@ -28,3 +28,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yameenmunir/count.svg" />
 </p>
+
+---
+
+<h3 align="center">🐍 GitHub Contributions Snake</h3>
+<p align="center">
+  <img src="https://github.com/yameenmunir/yameenmunir/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
