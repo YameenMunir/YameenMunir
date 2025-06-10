@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F72E&center=true&width=435&lines=AI+Enthusiast;Data+Science+Learner;Python+Developer;Machine+Learning+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F72E&center=true&width=435&lines=AI+Enthusiast;Data+Science+Learner;Python+Developer;Machine+Learning+Explorer" alt="Typing SVG"/>
 </p>
 <h1 align="center">Hi 👋, I'm Yameen</h1>
 <h3 align="center">Driven by AI & Data Science | Computer Science Student @ London South Bank University</h3>
@@ -11,6 +11,9 @@
   </a>
   <a href="https://www.datascienceportfol.io/YameenMunir" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
