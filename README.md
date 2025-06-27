@@ -9,8 +9,8 @@
   <a href="mailto:yameenmunir05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.datascienceportfol.io/YameenMunir" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
+  <a href="https://portfolio-website-xi-five-28.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-22272E?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 ## 📌 About Me
 
-- 👨‍💻 All my projects: [Portfolio](https://www.datascienceportfol.io/YameenMunir)
+- 👨‍💻 All my projects: [Website](https://portfolio-website-xi-five-28.vercel.app/)
 - 🌱 Currently learning: **Advanced Machine Learning Techniques**
 - 📫 Reach me at: **yameenmunir05@gmail.com**
 - 🎮 Fun fact: *I enjoy playing video games for fun!*
