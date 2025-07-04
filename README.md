@@ -9,7 +9,7 @@
   <a href="mailto:yameenmunir05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio-website-xi-five-28.vercel.app/" target="_blank">
+  <a href="https://yameenmunir.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-22272E?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
