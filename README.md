@@ -21,7 +21,7 @@
 
 ## 📌 About Me
 
-- 👨‍💻 All my projects: [Website](https://portfolio-website-xi-five-28.vercel.app/)
+- 👨‍💻 All my projects: [Website](https://yameenmunir.vercel.app/)
 - 🌱 Currently learning: **Advanced Machine Learning Techniques**
 - 📫 Reach me at: **yameenmunir05@gmail.com**
 - 🎮 Fun fact: *I enjoy playing video games for fun!*
