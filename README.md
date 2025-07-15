@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" alt="GitHub Snake Animation" width="80%"/>
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yameenmunir/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=yameenmunir&label=VISITOR+COUNT&color=22F72E&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
 ---
