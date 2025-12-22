@@ -187,7 +187,7 @@ current_focus:
 <!-- Stats Cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yameenmunir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&icon_color=22F72E&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=yameenmunir&theme=radical&hide_border=true&background=0D1117&stroke=22F72E&ring=22F72E&fire=22F72E&currStreakLabel=22F72E" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yameenmunir&theme=radical&hide_border=true&background=0D1117&stroke=22F72E&ring=22F72E&fire=22F72E&currStreakLabel=22F72E" alt="GitHub Streak" height="180"/>
 </p>
 
 <!-- Top Languages Card -->
