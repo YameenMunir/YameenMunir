@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22F72E&center=true&vCenter=true&multiline=false&width=500&height=50&lines=AI+Enthusiast+%F0%9F%A4%96;Data+Science+Learner+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Explorer+%F0%9F%A7%A0" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22F72E&center=true&vCenter=true&multiline=false&width=500&height=50&lines=AI+Enthusiast+%F0%9F%A4%96;Data+Science+Learner+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Explorer+%F0%9F%A7%A0;Web+Developer+%F0%9F%8C%90" alt="Typing SVG"/>
 </p>
 
 <!-- Name and Title -->
@@ -17,7 +17,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
-  Driven by AI & Data Science | Computer Science Student @ London South Bank University
+  Driven by AI, Data Science & Web Development | Computer Science Student @ London South Bank University
 </h3>
 
 <!-- Animated Divider -->
@@ -75,6 +75,17 @@ current_focus:
 ```
 
 </div>
+
+### 🌐 Web Development & Business Support
+
+Alongside my work in AI and Data Science, I also work as a **Web Developer**, helping individuals and businesses **build, create, maintain, and optimise websites**.
+
+I enjoy working on practical solutions that:
+- Automate repetitive tasks and workflows  
+- Improve efficiency and reduce operational costs  
+- Strengthen online presence through clean, scalable web solutions  
+
+I’m always happy to collaborate on projects that help businesses **save time, save money, and grow through technology**.
 
 <br clear="both"/>
 
