@@ -1,292 +1,185 @@
-<!-- Profile Header with Gradient -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22F72E,100:0d1117&height=200&section=header&text=Yameen%20Munir&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Development&descSize=18&descAlignY=58&descColor=aaaaaa" width="100%"/>
 </div>
 
-<!-- Animated Typing Text -->
+<br/>
+
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22F72E&center=true&vCenter=true&multiline=false&width=500&height=50&lines=AI+Enthusiast+%F0%9F%A4%96;Data+Science+Learner+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Explorer+%F0%9F%A7%A0;Web+Developer+%F0%9F%8C%90" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22F72E&center=true&vCenter=true&width=600&height=45&lines=BSc+Computer+Science+%28AI+%26+Data+Science%29+%40+LSBU;Building+AI-Powered+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Full+Stack+%7C+Data+Engineering;Applying+to+UCL+MSc+Artificial+Intelligence+%F0%9F%8E%93" alt="Typing SVG"/>
 </p>
 
-<!-- Name and Title -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hi, I'm <span style="color: #22F72E;">Yameen Munir</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
-  Driven by AI, Data Science & Web Development | Computer Science Student @ London South Bank University
-</h3>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- Social Badges -->
+<!-- Badges Row -->
 <p align="center">
   <a href="mailto:yameenmunir05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.yameenmunir.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=google-chrome&logoColor=22F72E" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.yameenmunir.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-22F72E?style=flat-square&logo=google-chrome&logoColor=black"/>
   </a>
   <a href="https://github.com/yameenmunir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=yameenmunir&label=profile+views&color=22F72E&style=flat-square"/>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yameenmunir&label=Profile+Views&color=22F72E&style=flat-square" alt="Profile Views"/>
-</p>
+<br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<!-- About Me Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> 
-  About Me
-</h2>
+## 👤 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-<div align="left">
-  
 ```yaml
-name: Yameen Munir
-located_in: London, United Kingdom
-education: Computer Science @ LSBU
-currently_learning: Advanced Machine Learning Techniques
-interests: 
-  - Artificial Intelligence
-  - Data Science & Analytics
-  - Machine Learning & Deep Learning
-  - Full Stack Development
+name      : Yameen Munir
+location  : London, United Kingdom
+education : BSc (Hons) Computer Science — AI & Data Science @ LSBU
 
-current_focus:
-  - Dissertation: "AI and the Future of Work"
+dissertation : "AI and the Future of Work: Mapping Job Market Shifts
+                Through Data Science and Machine Learning"
+
+interests :
+  - Artificial Intelligence & Machine Learning
+  - Data Science & Engineering (XGBoost, Prophet, Power BI)
+  - Full Stack Web Development (React · Node.js · Supabase)
+  - Cybersecurity & Penetration Testing
+
+currently :
+  - Completing final-year dissertation & viva preparation
+  - Applying to UCL MSc Artificial Intelligence & Data Engineering
+  - Freelance web development for local businesses
   - Building AI-powered applications
-  - Exploring cutting-edge ML algorithms
 ```
 
-</div>
+> I'm a final-year CS student with a strong track record of applying AI and data science to real-world business problems — from scraping and analysing 43,000+ job postings to building full-stack platforms and deploying production websites for clients.
 
-### 🌐 Web Development & Business Support
+---
 
-Alongside my work in AI and Data Science, I also work as a **Web Developer**, helping individuals and businesses **build, create, maintain, and optimise websites**.
+## 🛠️ Tech Stack
 
-I enjoy working on practical solutions that:
-- Automate repetitive tasks and workflows  
-- Improve efficiency and reduce operational costs  
-- Strengthen online presence through clean, scalable web solutions  
+**Languages & Frameworks**
 
-I’m always happy to collaborate on projects that help businesses **save time, save money, and grow through technology**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<br clear="both"/>
+**AI / ML & Data Science**
 
-<!-- Quick Facts -->
-<details open>
-<summary><b>🎯 Quick Facts</b></summary>
-<br>
-  
-- 👨‍💻 **Portfolio:** [yameenmunir.com](https://www.yameenmunir.com/)
-- 🌱 **Currently Learning:** Advanced Machine Learning Techniques
-- 📫 **Contact:** yameenmunir05@gmail.com
-- 🎮 **Fun Fact:** I enjoy playing video games for fun!
-- 💡 **Interests:** AI, Data Science, Web Development
-- 🎯 **Goal:** Building innovative AI solutions
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-</details>
+**Databases & Cloud**
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-<!-- Tech Stack Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> 
-  Tech Stack & Tools
-</h2>
+**Tools & Platforms**
 
-<!-- Programming Languages -->
-<h3 align="center">💻 Languages & Frameworks</h3>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 AI Job Market Analyser
+End-to-end data science pipeline scraping **43,000+ job postings** across multiple countries using JobSpy/Indeed. Features XGBoost salary prediction, K-Means clustering, Facebook Prophet demand forecasting, NLP/TF-IDF skill extraction, a Supabase star-schema data warehouse, and Power BI dashboards.
+
+`Python` `XGBoost` `Prophet` `Supabase` `Power BI`
+
+</td>
+<td width="50%">
+
+### 🏠 Homestay Exchange Platform
+Full-stack web app connecting students with elderly hosts for accommodation exchange. Built as Scrum Master leading a 5-person team, with a complete React/Node.js/Supabase stack and real-time features.
+
+`React` `Node.js` `Supabase` `Scrum`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Predictive Maintenance AI Agent
+Cost-sensitive ML classification agent for industrial equipment. Evaluated GBC, MLP, and Random Forest models against a £10 FP / £500 FN cost matrix. Champion model selected by total business cost minimisation, outputting agent decisions as CSV.
+
+`Python` `scikit-learn` `Cost Matrix` `GBC`
+
+</td>
+<td width="50%">
+
+### 🌐 Freelance Web Projects
+Live production websites for local businesses including [Gup Shup – Chit Chat Chai](https://gupshupchitchatchai.com) restaurant and MKP Post Offices (Gemini API integration). Focus on clean UX, SEO, and automation.
+
+`React` `Node.js` `Gemini API` `SEO`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://www.javascript.com" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yameenmunir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&icon_color=22F72E&text_color=C9D1D9&rank_icon=github" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yameenmunir&theme=radical&hide_border=true&background=0D1117&stroke=22F72E&ring=22F72E&fire=22F72E&currStreakLabel=22F72E" height="175"/>
 </p>
 
-<!-- AI/ML Frameworks -->
-<h3 align="center">🤖 AI/ML & Data Science</h3>
 <p align="center">
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenmunir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&text_color=C9D1D9&langs_count=8" height="160"/>
 </p>
 
-<!-- Databases -->
-<h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenmunir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=22F72E&line=22F72E&point=FFFFFF" width="92%"/>
 </p>
 
-<!-- Tools & Others -->
-<h3 align="center">🛠️ Tools & Platforms</h3>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  </a>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Colab"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yameenmunir&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="88%"/>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<!-- GitHub Stats Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
-  GitHub Stats & Activity
-</h2>
+## 🌐 Web Development & Business Consulting
 
-<!-- Stats Cards -->
+Alongside AI/ML, I build and maintain websites for individuals and small businesses — helping them **establish an online presence, automate workflows, and save on operational costs**.
+
+Recent clients include a **local restaurant** (full branding + booking system) and a **post office chain** (custom web app with AI assistant integration). Always open to new collaborations.
+
+📩 **Get in touch:** [yameenmunir05@gmail.com](mailto:yameenmunir05@gmail.com) · [yameenmunir.com](https://www.yameenmunir.com/)
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yameenmunir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&icon_color=22F72E&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yameenmunir&theme=radical&hide_border=true&background=0D1117&stroke=22F72E&ring=22F72E&fire=22F72E&currStreakLabel=22F72E" alt="GitHub Streak" height="180"/>
+  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" width="88%" alt="Snake Animation"/>
 </p>
 
-<!-- Top Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenmunir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&text_color=C9D1D9" alt="Top Languages" height="180"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenmunir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=22F72E&line=22F72E&point=FFFFFF" alt="Activity Graph" width="90%"/>
-</p>
-
-<!-- GitHub Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" alt="Snake Animation" width="90%"/>
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yameenmunir&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%"/>
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- Recent Activity -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
-  Latest Activity
-</h2>
-
-<details>
-<summary><b>📊 Show More Stats</b></summary>
-<br>
-
-<!-- Contribution Stats -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yameenmunir&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats"/>
-</p>
-
-<!-- WakaTime Stats (if you use WakaTime) -->
-<!-- Uncomment if you have WakaTime setup -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yameenmunir&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&text_color=C9D1D9" alt="WakaTime Stats"/>
-</p>
--->
-
-</details>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- Connect Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/> 
-  Let's Connect!
-</h2>
-
-<p align="center">
-  <a href="mailto:yameenmunir05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.yameenmunir.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=google-chrome&logoColor=22F72E" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="70%"/>
 </p>
 
 <!-- Footer -->
 <div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
-    Thank you for visiting my profile!
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
-  </h3>
-  <p>
-    <em>Feel free to explore my repositories and connect with me!</em><br>
-    <strong>Happy Coding! 🚀</strong>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22F72E,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
-
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
