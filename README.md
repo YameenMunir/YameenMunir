@@ -7,7 +7,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22F72E&center=true&vCenter=true&width=600&height=45&lines=BSc+Computer+Science+%28AI+%26+Data+Science%29+%40+LSBU;Building+AI-Powered+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Full+Stack+%7C+Data+Engineering;Applying+to+UCL+MSc+Artificial+Intelligence+%F0%9F%8E%93" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22F72E&center=true&vCenter=true&width=600&height=45&lines=BSc+Computer+Science+%28AI+%26+Data+Science%29+%40+LSBU;Building+AI-Powered+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Full+Stack+%7C+Data+Engineering;MSc+Artificial+Intelligence+Applicant+%F0%9F%8E%93" alt="Typing SVG"/>
 </p>
 
 <!-- Badges Row -->
@@ -36,7 +36,7 @@
 ```yaml
 name      : Yameen Munir
 location  : London, United Kingdom
-education : BSc (Hons) Computer Science — AI & Data Science @ LSBU
+education : BSc (Hons) Computer Science — AI & Data Science @ LSBU (Graduate, 2026)
 
 dissertation : "AI and the Future of Work: Mapping Job Market Shifts
                 Through Data Science and Machine Learning"
@@ -48,13 +48,13 @@ interests :
   - Cybersecurity & Penetration Testing
 
 currently :
-  - Completing final-year dissertation & viva preparation
-  - Applying to UCL MSc Artificial Intelligence & Data Engineering
+  - CS Graduate seeking roles in AI, Data Science & Software Engineering
+  - Applying to MSc Artificial Intelligence programmes
   - Freelance web development for local businesses
   - Building AI-powered applications
 ```
 
-> I'm a final-year CS student with a strong track record of applying AI and data science to real-world business problems — from scraping and analysing 43,000+ job postings to building full-stack platforms and deploying production websites for clients.
+> I'm a CS graduate with a strong track record of applying AI and data science to real-world business problems — from scraping and analysing 43,000+ job postings to building full-stack platforms and deploying production websites for clients.
 
 ---
 
