@@ -51,7 +51,7 @@
 |:---:|:---|
 | 🧑 | **Yameen Munir** |
 | 📍 | London, United Kingdom |
-| 🎓 | BSc (Hons) Computer Science — AI & Data Science @ LSBU &nbsp;*(Graduate, 2026)* |
+| 🎓 | BSc (Hons) Computer Science  @ LSBU &nbsp;*(Graduate, 2026)* |
 | 📄 | *"AI and the Future of Work: Mapping Job Market Shifts Through Data Science and Machine Learning"* |
 
 </td>
