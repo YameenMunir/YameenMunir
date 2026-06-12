@@ -1,35 +1,43 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22F72E,100:0d1117&height=200&section=header&text=Yameen%20Munir&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Development&descSize=18&descAlignY=58&descColor=aaaaaa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b1a,80:22F72E,100:0d1117&height=260&section=header&text=Yameen%20Munir&fontSize=68&fontAlignY=40&animation=twinkling&fontColor=ffffff&stroke=22F72E&strokeWidth=1&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descSize=21&descAlignY=62&descColor=22F72E" width="100%"/>
 </div>
 
 <br/>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22F72E&center=true&vCenter=true&width=600&height=45&lines=BSc+Computer+Science+%28AI+%26+Data+Science%29+%40+LSBU;Building+AI-Powered+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Full+Stack+%7C+Data+Engineering;MSc+Artificial+Intelligence+Applicant+%F0%9F%8E%93" alt="Typing SVG"/>
-</p>
-
-<!-- Badges Row -->
-<p align="center">
-  <a href="mailto:yameenmunir05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.yameenmunir.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22F72E?style=flat-square&logo=google-chrome&logoColor=black"/>
-  </a>
-  <a href="https://github.com/yameenmunir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yameenmunir&label=profile+views&color=22F72E&style=flat-square"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22F72E&center=true&vCenter=true&multiline=false&width=650&height=50&lines=CS+Graduate+%40+LSBU+%E2%80%94+AI+%26+Data+Science+%F0%9F%8E%93;Turning+Raw+Data+into+Intelligent+Systems+%F0%9F%A4%96;Analysed+43%2C000%2B+Job+Postings+for+Dissertation+%F0%9F%93%8A;ML+%7C+Full+Stack+%7C+Data+Engineering+%7C+AI+Agents;Open+to+Roles+in+AI%2C+Data+Science+%26+Engineering+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <br/>
 
----
+<!-- Social Badges -->
+<p align="center">
+  <a href="mailto:yameenmunir05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.yameenmunir.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-22F72E?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>&nbsp;
+  <a href="https://github.com/yameenmunir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yameenmunir&label=Profile+Views&color=22F72E&style=for-the-badge"/>
+</p>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
+
+<br/>
 
 ## 👤 About Me
 
@@ -56,110 +64,155 @@ currently :
 
 > I'm a CS graduate with a strong track record of applying AI and data science to real-world business problems — from scraping and analysing 43,000+ job postings to building full-stack platforms and deploying production websites for clients.
 
----
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,java&theme=dark&perline=6"/>
+
+<br/><br/>
 
 **AI / ML & Data Science**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=6"/>
+
+&nbsp;
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+<br/>
 
 **Databases & Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,mysql&theme=dark&perline=6"/>
+
+&nbsp;
 ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+<br/>
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,jupyter,docker&theme=dark&perline=6"/>
 
----
+&nbsp;
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
+
+<br/>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌍 AI Job Market Analyser
 End-to-end data science pipeline scraping **43,000+ job postings** across multiple countries using JobSpy/Indeed. Features XGBoost salary prediction, K-Means clustering, Facebook Prophet demand forecasting, NLP/TF-IDF skill extraction, a Supabase star-schema data warehouse, and Power BI dashboards.
 
-`Python` `XGBoost` `Prophet` `Supabase` `Power BI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 Homestay Exchange Platform
 Full-stack web app connecting students with elderly hosts for accommodation exchange. Built as Scrum Master leading a 5-person team, with a complete React/Node.js/Supabase stack and real-time features.
 
-`React` `Node.js` `Supabase` `Scrum`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Predictive Maintenance AI Agent
 Cost-sensitive ML classification agent for industrial equipment. Evaluated GBC, MLP, and Random Forest models against a £10 FP / £500 FN cost matrix. Champion model selected by total business cost minimisation, outputting agent decisions as CSV.
 
-`Python` `scikit-learn` `Cost Matrix` `GBC`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Cost Matrix](https://img.shields.io/badge/Cost_Matrix-FF4444?style=flat-square&logo=python&logoColor=white)
+![GBC](https://img.shields.io/badge/GBC-22F72E?style=flat-square&logo=python&logoColor=black)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Freelance Web Projects
 Live production websites for local businesses including [Gup Shup – Chit Chat Chai](https://gupshupchitchatchai.com) restaurant and MKP Post Offices (Gemini API integration). Focus on clean UX, SEO, and automation.
 
-`React` `Node.js` `Gemini API` `SEO`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yameenmunir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&icon_color=22F72E&text_color=C9D1D9&rank_icon=github" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yameenmunir&theme=radical&hide_border=true&background=0D1117&stroke=22F72E&ring=22F72E&fire=22F72E&currStreakLabel=22F72E" height="175"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenmunir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&text_color=C9D1D9&langs_count=8" height="160"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yameenmunir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&icon_color=22F72E&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yameenmunir&theme=radical&hide_border=true&background=0D1117&stroke=22F72E&ring=22F72E&fire=22F72E&currStreakLabel=22F72E&sideLabels=22F72E" height="180"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenmunir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=22F72E&line=22F72E&point=FFFFFF" width="92%"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yameenmunir&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="88%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenmunir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&text_color=C9D1D9&langs_count=8" height="165"/>
 
----
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenmunir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=22F72E&line=22F72E&point=22F72E&area_color=0d2b1a" width="93%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yameenmunir&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="90%"/>
+
+<br/><br/>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" width="90%" alt="Contribution Snake"/>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
+
+<br/>
 
 ## 🌐 Web Development & Business Consulting
 
@@ -169,17 +222,15 @@ Recent clients include a **local restaurant** (full branding + booking system) a
 
 📩 **Get in touch:** [yameenmunir05@gmail.com](mailto:yameenmunir05@gmail.com) · [yameenmunir.com](https://www.yameenmunir.com/)
 
----
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" width="88%" alt="Snake Animation"/>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="72%"/>
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="70%"/>
-</p>
+<br/>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22F72E,100:0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b1a,80:22F72E,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
