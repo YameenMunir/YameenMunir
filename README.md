@@ -41,28 +41,53 @@
 
 ## 👤 About Me
 
-```yaml
-name      : Yameen Munir
-location  : London, United Kingdom
-education : BSc (Hons) Computer Science — AI & Data Science @ LSBU (Graduate, 2026)
+<br/>
 
-dissertation : "AI and the Future of Work: Mapping Job Market Shifts
-                Through Data Science and Machine Learning"
+<table width="100%">
+<tr>
+<td>
 
-interests :
-  - Artificial Intelligence & Machine Learning
-  - Data Science & Engineering (XGBoost, Prophet, Power BI)
-  - Full Stack Web Development (React · Node.js · Supabase)
-  - Cybersecurity & Penetration Testing
+| | |
+|:---:|:---|
+| 🧑 | **Yameen Munir** |
+| 📍 | London, United Kingdom |
+| 🎓 | BSc (Hons) Computer Science — AI & Data Science @ LSBU &nbsp;*(Graduate, 2026)* |
+| 📄 | *"AI and the Future of Work: Mapping Job Market Shifts Through Data Science and Machine Learning"* |
 
-currently :
-  - CS Graduate seeking roles in AI, Data Science & Software Engineering
-  - Applying to MSc Artificial Intelligence programmes
-  - Freelance web development for local businesses
-  - Building AI-powered applications
-```
+</td>
+</tr>
+</table>
 
-> I'm a CS graduate with a strong track record of applying AI and data science to real-world business problems — from scraping and analysing 43,000+ job postings to building full-stack platforms and deploying production websites for clients.
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Interests**
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Engineering *(XGBoost, Prophet, Power BI)*
+- 🌐 Full Stack Web Dev *(React · Node.js · Supabase)*
+- 🔒 Cybersecurity & Penetration Testing
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Currently**
+
+- 💼 Seeking roles in AI, Data Science & Engineering
+- 🎓 Applying to MSc Artificial Intelligence programmes
+- 💻 Freelance web development for local businesses
+- 🚀 Building AI-powered applications
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> 💡 CS graduate with a strong track record of applying AI and data science to real-world business problems — from scraping and analysing **43,000+ job postings** to building full-stack platforms and deploying production websites for clients.
 
 <br/>
 
