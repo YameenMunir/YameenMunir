@@ -245,9 +245,9 @@ Production website for a local restaurant covering full branding, menu showcase,
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake-matrix.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake-matrix.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </picture>
 
 </div>
