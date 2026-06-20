@@ -186,13 +186,29 @@ Cost-sensitive ML classification agent for industrial equipment. Evaluated GBC, 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Freelance Web Projects
-Live production websites for local businesses including [Gup Shup – Chit Chat Chai](https://gupshupchitchatchai.com) restaurant and MKP Post Offices (Gemini API integration). Focus on clean UX, SEO, and automation.
+### 📮 [MKP London — Post Office Website](https://mkplondon.co.uk)
+Multi-branch Post Office website with an integrated **AI chatbot** (Gemini API), an automated **price-scraping pipeline** pulling live shipping rates from Royal Mail, Evri, and DPD, local SEO optimisation, and security hardening across all pages.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SEO](https://img.shields.io/badge/Local_SEO-47A248?style=flat-square&logo=google&logoColor=white)
+![Security](https://img.shields.io/badge/Security_Hardening-FF4444?style=flat-square&logo=shieldsdotio&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍵 [Gup Shup — Chit Chat Chai](https://gupshupchitchatchai.com)
+Production website for a local restaurant covering full branding, menu showcase, and booking system. Focus on mobile-first design, clean UX, and organic search visibility.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
