@@ -210,6 +210,14 @@ Production website for a local restaurant covering full branding, menu showcase,
 </td>
 <td width="50%" valign="top">
 
+### 🎓 [Infinitum Education — IFP Website](https://www.infinitumeducation.com/)
+Multi-page WordPress website for an accredited higher-education pathway provider. Delivered the IFP landing page, FAQ, online application, and terms pages with SEO-optimised copy throughout. Managed scope and iterative revisions across three stakeholders to ship on time.
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![SEO](https://img.shields.io/badge/On--Page_SEO-47A248?style=flat-square&logo=google&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Mgmt-22F72E?style=flat-square&logo=handshake&logoColor=black)
+
 </td>
 </tr>
 </table>
@@ -263,7 +271,7 @@ Production website for a local restaurant covering full branding, menu showcase,
 
 Alongside AI/ML, I build and maintain websites for individuals and small businesses — helping them **establish an online presence, automate workflows, and save on operational costs**.
 
-Recent clients include a **local restaurant** (full branding + booking system) and a **post office chain** (custom web app with AI assistant integration). Always open to new collaborations.
+Recent clients include a **local restaurant** (full branding + booking system), a **post office chain** (custom web app with AI assistant integration), and an **accredited higher-education provider** ([Infinitum Education](https://www.infinitumeducation.com/) — multi-page WordPress site with SEO copy and stakeholder management). Always open to new collaborations.
 
 📩 **Get in touch:** [yameenmunir05@gmail.com](mailto:yameenmunir05@gmail.com) · [yameenmunir.com](https://www.yameenmunir.com/)
 
