@@ -77,7 +77,6 @@
 **⚡ Currently**
 
 - 💼 Seeking roles in AI, Data Science & Engineering
-- 🎓 Applying to MSc Artificial Intelligence programmes
 - 💻 Freelance web development for local businesses
 - 🚀 Building AI-powered applications
 
