@@ -1,288 +1,113 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b1a,80:22F72E,100:0d1117&height=260&section=header&text=Yameen%20Munir&fontSize=68&fontAlignY=40&animation=twinkling&fontColor=ffffff&stroke=22F72E&strokeWidth=1&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descSize=21&descAlignY=62&descColor=22F72E" width="100%"/>
-</div>
+# Yameen Munir
 
-<br/>
+**AI · Data Science · Full-Stack Development** — London, UK
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22F72E&center=true&vCenter=true&multiline=false&width=650&height=50&lines=CS+Graduate+%40+LSBU+%E2%80%94+AI+%26+Data+Science+%F0%9F%8E%93;Turning+Raw+Data+into+Intelligent+Systems+%F0%9F%A4%96;Analysed+43%2C000%2B+Job+Postings+for+Dissertation+%F0%9F%93%8A;ML+%7C+Full+Stack+%7C+Data+Engineering+%7C+AI+Agents;Open+to+Roles+in+AI%2C+Data+Science+%26+Engineering+%F0%9F%9A%80" alt="Typing SVG"/>
+I'm a First-Class BSc (Hons) Computer Science graduate from London South Bank University. Most of my work sits where data meets the web: training models on messy real-world data, then building the pipelines, dashboards, and sites that put the results in front of people.
+
+For my dissertation, *AI and the Future of Work: Mapping Job Market Shifts Through Data Science and Machine Learning*, I scraped and analysed 43,000+ job postings across multiple countries — salary prediction with XGBoost, demand forecasting with Prophet, skill extraction with TF-IDF, all feeding a Supabase star-schema warehouse and Power BI dashboards. That project is a fair picture of how I like to work: real data, end to end, finishing with something people can actually use.
+
+I'm currently looking for roles in AI, data science, and software engineering. On the side, I build and maintain websites for local businesses.
+
+<p>
+  <a href="https://www.yameenmunir.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22F72E?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:yameenmunir05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<br/>
+---
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="mailto:yameenmunir05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/yameen-munir/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.yameenmunir.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22F72E?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-  </a>&nbsp;
-  <a href="https://github.com/yameenmunir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## Selected projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yameenmunir&label=Profile+Views&color=22F72E&style=for-the-badge"/>
-</p>
+### AI Job Market Analyser
+End-to-end data science pipeline behind my dissertation. Scrapes 43,000+ job postings via JobSpy/Indeed, predicts salaries with XGBoost, clusters roles with K-Means, forecasts demand with Facebook Prophet, and extracts in-demand skills with TF-IDF. Results land in a Supabase star-schema warehouse and are served through Power BI dashboards.
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white" alt="XGBoost"/> <img src="https://img.shields.io/badge/Prophet-3776AB?style=flat-square&logo=python&logoColor=white" alt="Prophet"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
+### Predictive Maintenance Agent
+Cost-sensitive classifier for industrial equipment failure, where a false negative (£500) costs 50× more than a false positive (£10). Compared gradient boosting, MLP, and random forest models and selected the champion by total business cost rather than accuracy — a small distinction that changes which model wins.
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Cost--sensitive_learning-555555?style=flat-square" alt="Cost-sensitive learning"/>
 
-## 👤 About Me
+### Homestay Exchange Platform
+Full-stack university project connecting students with elderly hosts for accommodation exchange. I served as Scrum Master for a five-person team and worked across the React/Node.js/Supabase stack, including real-time features.
 
-<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square" alt="Scrum"/>
 
-<table width="100%">
-<tr>
-<td>
+---
 
-| | |
-|:---:|:---|
-| 🧑 | **Yameen Munir** |
-| 📍 | London, United Kingdom |
-| 🎓 | BSc (Hons) Computer Science  @ LSBU &nbsp;*(Graduate, 2026)* |
-| 📄 | *"AI and the Future of Work: Mapping Job Market Shifts Through Data Science and Machine Learning"* |
+## Client work
 
-</td>
-</tr>
-</table>
+I build production websites for small businesses — the goal is always the same: a real online presence, less manual admin, lower running costs.
 
-<br/>
+### [MKP London — Post Office](https://mkplondon.co.uk)
+Multi-branch Post Office website with an AI chatbot built on the Gemini API and an automated price-scraping pipeline that pulls live shipping rates from Royal Mail, Evri, and DPD. Also covered local SEO and security hardening across the site.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
 
-**🔍 Interests**
+### [Infinitum Education](https://www.infinitumeducation.com/)
+Multi-page WordPress site for an accredited higher-education pathway provider: landing page, FAQ, online application, and terms pages, with SEO-optimised copy throughout. Shipped on time while managing scope and revisions across three stakeholders.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Engineering *(XGBoost, Prophet, Power BI)*
-- 🌐 Full Stack Web Dev *(React · Node.js · Supabase)*
-- 🔒 Cybersecurity & Penetration Testing
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/> <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor"/> <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
 
-</td>
-<td width="50%" valign="top">
+### [Gup Shup — Chit Chat Chai](https://gupshupchitchatchai.com)
+Website for a local restaurant covering branding, menu showcase, and bookings. Mobile-first, with a focus on clean UX and organic search visibility.
 
-**⚡ Currently**
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
 
-- 💼 Seeking roles in AI, Data Science & Engineering
-- 💻 Freelance web development for local businesses
-- 🚀 Building AI-powered applications
+---
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-> 💡 CS graduate with a strong track record of applying AI and data science to real-world business problems — from scraping and analysing **43,000+ job postings** to building full-stack platforms and deploying production websites for clients.
-
-<br/>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
-
-<br/>
-
-## 🛠️ Tech Stack
+## Tools I use
 
 <div align="center">
 
-**Languages & Frameworks**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,java&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" alt="Python, JavaScript, TypeScript, Java"/>
 
-<br/><br/>
+**ML & data**
 
-**AI / ML & Data Science**
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" alt="scikit-learn, TensorFlow, PyTorch"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=6"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white" alt="XGBoost"/> <img src="https://img.shields.io/badge/Prophet-3776AB?style=flat-square&logo=python&logoColor=white" alt="Prophet"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-&nbsp;
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**Web**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,wordpress&theme=dark" alt="React, Next.js, Node.js, WordPress"/>
 
-**Databases & Cloud**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,mysql&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite&theme=dark" alt="PostgreSQL, Supabase, MySQL, SQLite"/>
 
-&nbsp;
-![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
 
-<br/>
+**Tools**
 
-**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,docker,linux,jupyter,vscode&theme=dark" alt="Git, Docker, Linux, Jupyter, VS Code"/>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,jupyter,docker&theme=dark&perline=6"/>
-
-&nbsp;
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
 
 </div>
 
-<br/>
+---
 
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 AI Job Market Analyser
-End-to-end data science pipeline scraping **43,000+ job postings** across multiple countries using JobSpy/Indeed. Features XGBoost salary prediction, K-Means clustering, Facebook Prophet demand forecasting, NLP/TF-IDF skill extraction, a Supabase star-schema data warehouse, and Power BI dashboards.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 Homestay Exchange Platform
-Full-stack web app connecting students with elderly hosts for accommodation exchange. Built as Scrum Master leading a 5-person team, with a complete React/Node.js/Supabase stack and real-time features.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Predictive Maintenance AI Agent
-Cost-sensitive ML classification agent for industrial equipment. Evaluated GBC, MLP, and Random Forest models against a £10 FP / £500 FN cost matrix. Champion model selected by total business cost minimisation, outputting agent decisions as CSV.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Cost Matrix](https://img.shields.io/badge/Cost_Matrix-FF4444?style=flat-square&logo=python&logoColor=white)
-![GBC](https://img.shields.io/badge/GBC-22F72E?style=flat-square&logo=python&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 📮 [MKP London — Post Office Website](https://mkplondon.co.uk)
-Multi-branch Post Office website with an integrated **AI chatbot** (Gemini API), an automated **price-scraping pipeline** pulling live shipping rates from Royal Mail, Evri, and DPD, local SEO optimisation, and security hardening across all pages.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SEO](https://img.shields.io/badge/Local_SEO-47A248?style=flat-square&logo=google&logoColor=white)
-![Security](https://img.shields.io/badge/Security_Hardening-FF4444?style=flat-square&logo=shieldsdotio&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍵 [Gup Shup — Chit Chat Chai](https://gupshupchitchatchai.com)
-Production website for a local restaurant covering full branding, menu showcase, and booking system. Focus on mobile-first design, clean UX, and organic search visibility.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [Infinitum Education — IFP Website](https://www.infinitumeducation.com/)
-Multi-page WordPress website for an accredited higher-education pathway provider. Delivered the IFP landing page, FAQ, online application, and terms pages with SEO-optimised copy throughout. Managed scope and iterative revisions across three stakeholders to ship on time.
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![SEO](https://img.shields.io/badge/On--Page_SEO-47A248?style=flat-square&logo=google&logoColor=white)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Mgmt-22F72E?style=flat-square&logo=handshake&logoColor=black)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
-
-<br/>
-
-## 📊 GitHub Stats
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yameenmunir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&icon_color=22F72E&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yameenmunir&theme=radical&hide_border=true&background=0D1117&stroke=22F72E&ring=22F72E&fire=22F72E&currStreakLabel=22F72E&sideLabels=22F72E" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yameenmunir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22F72E&icon_color=22F72E&text_color=C9D1D9&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenmunir&layout=compact&hide_border=true&bg_color=0D1117&title_color=22F72E&text_color=C9D1D9&langs_count=8" height="170" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenmunir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22F72E&text_color=C9D1D9&langs_count=8" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenmunir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=22F72E&line=22F72E&point=22F72E&area_color=0d2b1a" width="93%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yameenmunir&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="90%"/>
-
-<br/><br/>
-
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
 </picture>
 
 </div>
 
-<br/>
+---
 
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=22F72E&height=2" width="100%"/>
-
-<br/>
-
-## 🌐 Web Development & Business Consulting
-
-Alongside AI/ML, I build and maintain websites for individuals and small businesses — helping them **establish an online presence, automate workflows, and save on operational costs**.
-
-Recent clients include a **local restaurant** (full branding + booking system), a **post office chain** (custom web app with AI assistant integration), and an **accredited higher-education provider** ([Infinitum Education](https://www.infinitumeducation.com/) — multi-page WordPress site with SEO copy and stakeholder management). Always open to new collaborations.
-
-📩 **Get in touch:** [yameenmunir05@gmail.com](mailto:yameenmunir05@gmail.com) · [yameenmunir.com](https://www.yameenmunir.com/)
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="72%"/>
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b1a,80:22F72E,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+If you'd like to talk about a role, a project, or a website for your business: [yameenmunir05@gmail.com](mailto:yameenmunir05@gmail.com)
