@@ -58,7 +58,7 @@ I am currently looking for opportunities in **AI, Data Science, and Software Eng
 
 <br/>
 
-> ### ⚙️ Predictive Maintenance Agent
+> ### ⚙️ [Predictive Maintenance Agent](https://github.com/YameenMunir/smi-predictive-maintenance-coursework)
 > _Cost-sensitive classifier for industrial equipment failure._
 > 
 > * **Cost-Sensitive Learning:** Designed a classification model mapping real-world business costs where a false negative (£500) is **50× more expensive** than a false positive (£10).
@@ -69,7 +69,7 @@ I am currently looking for opportunities in **AI, Data Science, and Software Eng
 
 <br/>
 
-> ### 🏠 Homestay Exchange Platform
+> ### 🏠 [Homestay Exchange Platform](https://github.com/YameenMunir/Homestay-Exchange-App)
 > _Full-stack platform connecting students with elderly hosts for accommodation exchange._
 > 
 > * **Team Leadership:** Acted as **Scrum Master** for a five-person development team using Agile sprints.
