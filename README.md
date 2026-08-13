@@ -21,17 +21,18 @@
 
 <p align="center">
   <b>
-    <a href="#about-me">📖 About Me</a> &nbsp;•&nbsp;
-    <a href="#selected-projects">📂 Selected Projects</a> &nbsp;•&nbsp;
-    <a href="#client-work">💼 Client Work</a> &nbsp;•&nbsp;
-    <a href="#skills--tools">🛠️ Skills & Tools</a> &nbsp;•&nbsp;
-    <a href="#github-activity">📈 GitHub Activity</a> &nbsp;•&nbsp;
-    <a href="#get-in-touch">✉️ Get in Touch</a>
+    <a href="#about-me-anchor">📖 About Me</a> &nbsp;•&nbsp;
+    <a href="#selected-projects-anchor">📂 Selected Projects</a> &nbsp;•&nbsp;
+    <a href="#client-work-anchor">💼 Client Work</a> &nbsp;•&nbsp;
+    <a href="#skills-tools-anchor">🛠️ Skills & Tools</a> &nbsp;•&nbsp;
+    <a href="#github-activity-anchor">📈 GitHub Activity</a> &nbsp;•&nbsp;
+    <a href="#get-in-touch-anchor">✉️ Get in Touch</a>
   </b>
 </p>
 
 ---
 
+<a id="about-me-anchor"></a>
 ## 📖 About Me
 
 I am a First-Class **BSc (Hons) Computer Science** graduate from **London South Bank University**. Most of my work sits at the intersection of data science and web development: training models on complex real-world data, building robust processing pipelines, and delivering interactive dashboards and web applications.
@@ -42,6 +43,7 @@ I am currently looking for opportunities in **AI, Data Science, and Software Eng
 
 ---
 
+<a id="selected-projects-anchor"></a>
 ## 📂 Selected Projects
 
 > ### 🤖 AI Job Market Analyser
@@ -78,6 +80,7 @@ I am currently looking for opportunities in **AI, Data Science, and Software Eng
 
 ---
 
+<a id="client-work-anchor"></a>
 ## 💼 Client Work
 
 I build production-grade web solutions for local businesses, focusing on maximizing online visibility, automating workflows, and reducing maintenance overhead.
@@ -116,6 +119,7 @@ I build production-grade web solutions for local businesses, focusing on maximiz
 
 ---
 
+<a id="skills-tools-anchor"></a>
 ## 🛠️ Skills & Tools
 
 | Domain | Tech Stack |
@@ -128,6 +132,7 @@ I build production-grade web solutions for local businesses, focusing on maximiz
 
 ---
 
+<a id="github-activity-anchor"></a>
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -140,6 +145,7 @@ I build production-grade web solutions for local businesses, focusing on maximiz
 
 ---
 
+<a id="get-in-touch-anchor"></a>
 ## ✉️ Get in Touch
 
 If you'd like to discuss a role, a collaborative project, or a custom web solution for your business, feel free to reach out:
