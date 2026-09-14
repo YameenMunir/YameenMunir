@@ -35,7 +35,7 @@
 <a id="about-me-anchor"></a>
 ## 📖 About Me
 
-I am a First-Class **BSc (Hons) Computer Science** graduate from **London South Bank University**. Most of my work sits at the intersection of data science and web development: training models on complex real-world data, building robust processing pipelines, and delivering interactive dashboards and web applications.
+I am a First-Class **BSc (Hons) Computer Science** graduate from **London South Bank University**, currently studying for an **MSc Artificial Intelligence for Science** at **King's College London (KCL)**. Most of my work sits at the intersection of data science and web development: training models on complex real-world data, building robust processing pipelines, and delivering interactive dashboards and web applications.
 
 For my dissertation, *AI and the Future of Work: Mapping Job Market Shifts Through Data Science and Machine Learning*, I scraped and analyzed **43,000+ job postings** across multiple countries. This involved building a salary prediction model with **XGBoost**, forecasting demand with **Prophet**, extracting skills with **TF-IDF**, and feeding a **Supabase** star-schema warehouse for **Power BI** dashboards.
 
