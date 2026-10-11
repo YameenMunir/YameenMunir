@@ -78,6 +78,30 @@ I am currently looking for opportunities in **AI, Data Science, and Software Eng
 > **Tech Stack:**  
 > ![React](https://img.shields.io/badge/React-0F172A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=nodedotjs&logoColor=339933) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat&logo=supabase&logoColor=3ECF8E) ![Scrum](https://img.shields.io/badge/Scrum-0F172A?style=flat&logo=scrumalliance&logoColor=6DB33F)
 
+<br/>
+
+> ### 🎮 [osu!mania RL Bot](https://github.com/YameenMunir/mania-rl-bot)
+> _Reinforcement learning agent that learns to play osu!mania 4K._
+> 
+> * **Reinforcement Learning:** Trained a **PPO** agent in **PyTorch** against a fast custom simulator of osu!mania scoring, so thousands of plays take minutes (700k steps in about 7 minutes on 2 CPU cores).
+> * **Playable Output:** Exports trained runs as real **osu! stable replays (.osr)**, without modifying the game, reading its memory or injecting input.
+> * **Desktop App:** Built a **Tkinter** app covering the full workflow: live training dashboards, parallel environments, checkpoint resume, and an atomic, never-overwritten model version history.
+> 
+> **Tech Stack:**  
+> ![Python](https://img.shields.io/badge/Python-0F172A?style=flat&logo=python&logoColor=3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat&logo=pytorch&logoColor=EE4C2C) ![PPO](https://img.shields.io/badge/PPO-0F172A?style=flat) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0F172A?style=flat) ![Tkinter](https://img.shields.io/badge/Tkinter-0F172A?style=flat)
+
+<br/>
+
+> ### 🛑 [ShortStop](https://github.com/YameenMunir/ShortStop)
+> _Open-source browser extension that blocks Shorts, Reels and endless feeds._
+> 
+> * **Focus Blocking:** Blocks short-form video and endless feeds on **YouTube, Instagram, Facebook, TikTok, Reddit, X and Snapchat**, while search, messages and profiles keep working.
+> * **User Control:** One-click per-site switches, allowed accounts, scheduled allowed times, timed focus sessions, and optional YouTube content preferences.
+> * **Privacy First:** No tracking and no network requests, enforced by CI with automated tests, a privacy guard and **CodeQL** scanning. Runs on Chrome, Edge, Brave, Firefox and iPhone Safari (userscript).
+> 
+> **Tech Stack:**  
+> ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat&logo=css3&logoColor=1572B6) ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-0F172A?style=flat&logo=googlechrome&logoColor=4285F4) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat&logo=githubactions&logoColor=2088FF)
+
 ---
 
 <a id="client-work-anchor"></a>
