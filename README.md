@@ -167,6 +167,10 @@ I build production-grade web solutions for local businesses, focusing on maximiz
   </picture>
 </div>
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
+
 ---
 
 <a id="get-in-touch-anchor"></a>
