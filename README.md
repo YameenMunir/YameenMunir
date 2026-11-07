@@ -168,7 +168,7 @@ I build production-grade web solutions for local businesses, focusing on maximiz
 </div>
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
+  <img src="koi/pond.gif" width="320" alt="My koi swimming in a pixel-art pond" />
 </p>
 
 ---

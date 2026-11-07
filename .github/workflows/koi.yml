@@ -5,7 +5,7 @@ on:
     - cron: "20 0 * * *"
   workflow_dispatch:
   push:
-    paths: [.github/workflows/koi.yml]
+    paths: [.github/workflows/koi.yml, scripts/pond.py]
 
 permissions:
   contents: write
@@ -21,10 +21,17 @@ jobs:
         with:
           body: white
           output-dir: koi
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Put the koi in its pond
+        run: |
+          pip install --quiet pillow
+          python scripts/pond.py koi/koi.gif koi/pond.gif
       - name: Commit the koi if it changed
         shell: bash
         run: |
-          git add koi/koi.gif
+          git add koi/koi.gif koi/pond.gif
           if git diff --cached --quiet; then
             echo "The koi is unchanged; nothing to commit."
             exit 0
